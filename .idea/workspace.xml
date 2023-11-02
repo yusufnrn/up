@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83ea9bb8-ce69-4d98-92a1-913415850843" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/nedmin/blogs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedmin/css/ozel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedmin/dimg/admins/65392bf78d40d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedmin/dimg/admins/6539f5a2bf78a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedmin/dimg/admins/6539f5a9ce7fb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedmin/dimg/admins/6539f61b69487.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedmin/dimg/admins/6539f62c8204a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedmin/dimg/admins/6539f7ad22cd4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedmin/dimg/admins/6539fa46abc2e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedmin/dimg/blogs/653a6ef83932c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedmin/dimg/blogs/653b566962255.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedmin/dimg/settings/yusuf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedmin/dimg/sliders/653a659854d01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedmin/dimg/sliders/653a6620db2e9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedmin/dimg/users/6539fa73bdf79.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedmin/dimg/users/653b56f8e1a62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedmin/netting/order-ajax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedmin/settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nedmin/sliders.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/admins.php" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/admins.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/ajax/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/ajax/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/annotating/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/annotating/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/axes-interacting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/axes-interacting/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/axes-multiple/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/axes-multiple/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/axes-time-zones/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/axes-time-zones/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/axes-time/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/axes-time/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/basic-options/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/basic-options/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/basic-usage/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/basic-usage/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/canvas/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/canvas/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/image/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/image/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/interacting/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/interacting/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/navigate/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/navigate/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/percentiles/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/percentiles/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/realtime/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/realtime/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/resize/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/resize/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/selection/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/selection/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/series-errorbars/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/series-errorbars/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/series-pie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/series-pie/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/series-toggle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/series-toggle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/series-types/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/series-types/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/stacking/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/stacking/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/symbols/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/symbols/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/threshold/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/threshold/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/tracking/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/tracking/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/visitors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/visitors/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/zooming/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/examples/zooming/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/Flot/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/Flot/jquery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/bootstrap-datepicker/tests/assets/jquery-1.7.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/bootstrap-datepicker/tests/assets/jquery-1.7.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/bootstrap-daterangepicker/website/website.js" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/bootstrap-daterangepicker/website/website.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/bootstrap-timepicker/js/bootstrap-timepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/bootstrap-timepicker/js/bootstrap-timepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/bootstrap/less/dropdowns.less" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/bootstrap/less/dropdowns.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/bootstrap/less/modals.less" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/bootstrap/less/modals.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/bootstrap/less/panels.less" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/bootstrap/less/panels.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/bootstrap/less/variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/bootstrap/less/variables.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/ckeditor/ckeditor.js" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/ckeditor/ckeditor.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/datatables.net/js/jquery.dataTables.js" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/datatables.net/js/jquery.dataTables.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/fullcalendar/dist/fullcalendar.js" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/fullcalendar/dist/fullcalendar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/jvectormap/tests/assets/jquery-1.8.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/jvectormap/tests/assets/jquery-1.8.2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/bower_components/select2/tests/vendor/jquery-1.7.2.js" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/bower_components/select2/tests/vendor/jquery-1.7.2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/build/bootstrap-less/dropdowns.less" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/build/bootstrap-less/dropdowns.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/build/bootstrap-less/modals.less" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/build/bootstrap-less/modals.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/build/bootstrap-less/panels.less" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/build/bootstrap-less/panels.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/build/bootstrap-less/variables.less" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/build/bootstrap-less/variables.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/build/js/BoxWidget.js" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/build/js/BoxWidget.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/build/js/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/build/js/Layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/build/less/boxes.less" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/build/less/boxes.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/build/less/dropdown.less" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/build/less/dropdown.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/build/less/sidebar-mini.less" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/build/less/sidebar-mini.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/build/less/timeline.less" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/build/less/timeline.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/dimg/admins/6538b88709bc1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/dimg/admins/6539fa0377412.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/dimg/admins/6538b96a58c57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/dimg/admins/6538b97acaa83.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/dimg/admins/6538b9aa35bd2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/dimg/admins/6538b9ae722fd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/dimg/admins/6538b9b7418d2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/dimg/admins/yusuf.png" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/dimg/admins/6539fb060244c.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/dist/js/adminlte.js" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/dist/js/adminlte.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/netting/class.crud.php" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/netting/class.crud.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/pages/examples/blank.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/pages/examples/blank.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/pages/examples/pace.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/pages/examples/pace.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/pages/forms/general.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/pages/forms/general.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/pages/layout/boxed.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/pages/layout/boxed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/pages/layout/collapsed-sidebar.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/pages/layout/collapsed-sidebar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/pages/layout/fixed.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/pages/layout/fixed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/pages/mailbox/compose.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/pages/mailbox/compose.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/pages/mailbox/read-mail.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/pages/mailbox/read-mail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/pages/widgets.html" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/pages/widgets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.js" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/plugins/timepicker/bootstrap-timepicker.js" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/plugins/timepicker/bootstrap-timepicker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/sidebar.php" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/sidebar.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/users.php" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/users.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/nedmin" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2WyLiQjiYnY1CSsYGHmogGUzcsZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/xampp/htdocs/emvc",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\admin" />
+      <recent name="C:\xampp\htdocs\admin\nedmin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\admin" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83ea9bb8-ce69-4d98-92a1-913415850843" name="Changes" comment="" />
+      <created>1697699999254</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697699999254</updated>
+      <workItem from="1697700000268" duration="11415000" />
+      <workItem from="1697718351382" duration="17000" />
+      <workItem from="1697718369939" duration="8229000" />
+      <workItem from="1698009677465" duration="11678000" />
+      <workItem from="1698062802026" duration="701000" />
+      <workItem from="1698070131001" duration="39926000" />
+      <workItem from="1698166076397" duration="10112000" />
+      <workItem from="1698218127820" duration="337000" />
+      <workItem from="1698218476388" duration="171000" />
+      <workItem from="1698218681744" duration="38389000" />
+      <workItem from="1698384001896" duration="7047000" />
+      <workItem from="1698393769614" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
